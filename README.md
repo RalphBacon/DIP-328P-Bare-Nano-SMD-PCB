@@ -1,7 +1,7 @@
 # DIP 328P Bare Nano SMD PCB plug in
 A small 328P PCB replacement for a Nano with minimal components to save power - or does it?
 
-[JLC sponsor]
+### PCBWay Assembly Service only $30 with Quick Turnaround Time https://www.pcbway.com
 
 ### See https://www.youtube.com/ralphbacon video #170
 #### (Direct link to video: https://youtu.be/Gb7ofRZUXcU)
