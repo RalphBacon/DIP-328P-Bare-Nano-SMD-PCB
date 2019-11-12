@@ -6,6 +6,8 @@ A small 328P PCB replacement for a Nano with minimal components to save power - 
 ### See https://www.youtube.com/ralphbacon video #170
 #### (Direct link to video: https://youtu.be/Gb7ofRZUXcU)
 
+\[Click any of the pictures for a larger image]
+
 <img src="/images/IMG_20191112_131812.jpg" align="left" width="25%">
 A small plug-in replacement for a Nano without all the extra components has got to save power, right?  
   
@@ -20,3 +22,6 @@ And whilst we're at it, we'll play with the toneAC library from Tim Eckel (of Ne
 <img src="/images/IMG_20191112_131920.jpg" align="left" width="25%" style="clear:both">  
 So this little PCB plugs into anywhere a Nano normally fits. I used a standard DIP 328P as I had so many of them this was an ideal opportunity to use some of them. These days it's all SMD, no THT allowed!  
 This is the slightly hacked board into which it plugs (Universal Timer)  
+<br><br><br><br><br><br>
+<img src="/images/YIHUA 938D Portable Hot Tweezers.JPG" align="left" width="25%" style="clear:both">
+Talking of SMD, these Yihua tweezers are given a longer look at, and I even demo how I;ve used them (a bit cack-handledly over the camera but you will get the gist). I'm hoping these will be robust and long-lived; they are the same brand as my 858D Hot Air Gun resoldering station.
