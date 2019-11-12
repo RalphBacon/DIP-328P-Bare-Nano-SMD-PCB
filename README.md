@@ -26,9 +26,9 @@ This is the slightly hacked board into which it plugs (Universal Timer)
 <br><br><br><br><br><br>
 
 <img src="/images/YIHUA 938D Portable Hot Tweezers.JPG" align="left" width="25%" style="clear:both">
-Talking of SMD, these Yihua tweezers are given a longer look at, and I even demo how I;ve used them (a bit cack-handledly over the camera but you will get the gist). I'm hoping these will be robust and long-lived; they are the same brand as my 858D Hot Air Gun resoldering station.  
+Talking of SMD, these Yihua tweezers are given a longer look at, and I even demo how I;ve used them (a bit cack-handledly over the camera but you will get the gist). I'm hoping these will be robust and long-lived; they are the same brand as my 959D Hot Air Gun resoldering station which has worked very well so far.  
 
-<br><br><br><br><br><br>
+<br><br><br>  
 
 ### List of all my videos  
 (Special thanks to Michael Kurt Vogel for compiling this)  
