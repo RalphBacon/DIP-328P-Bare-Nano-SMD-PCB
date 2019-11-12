@@ -8,7 +8,9 @@ A small 328P PCB replacement for a Nano with minimal components to save power - 
 
 <img src="/images/IMG_20191112_131812.jpg" align="left" width="25%">
 A small plug-in replacement for a Nano without all the extra components has got to save power, right?  
+  
 <br>  
+  
 And whilst we're at it, we'll play with the toneAC library from Tim Eckel (of NewPing fame) to boost the volume of the small beeper (buzzer) running off that 3v coin cell. It was always going to be a bit of challenge to run off 4v anyway, especailly a CR2032 coin cell but the challenge was met quite nicely!  
 <br><br>  
 <img src="/images/baree piezo.JPG" align="left" width="25%" style="clear:both">  
